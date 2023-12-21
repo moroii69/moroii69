@@ -2,7 +2,8 @@
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
-<p align="center" ![](https://komarev.com/ghpvc/?username=Ufraan&color=green&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ufraan&color=green&style=flat-square" alt="Profile Views">
 </p>
 
 
