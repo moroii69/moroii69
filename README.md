@@ -53,4 +53,4 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) o
 
 For professional inquiries, reach out via email at kurosen930@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ufraan)](https://github.com/anuraghazra/github-readme-stats)
+![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
