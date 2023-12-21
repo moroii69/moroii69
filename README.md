@@ -25,11 +25,7 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 - As a kid, I wanted to be a doctor.
 
 ## 🧑‍💻Languages and Tools
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ufraan&label=Profile%20views&color=0e75b6&style=flat" alt="Ufraan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
-
-<div> <a href="https://github.com/Ufraan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
