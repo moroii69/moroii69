@@ -2,6 +2,7 @@
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
+![gif](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b95286nvre3mcuy15xdnugb9kb8yd2lqepvowa8gq2o7&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
 <p align="center">
