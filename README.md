@@ -9,8 +9,9 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Aspiring+Full-Stack+Web+Developer,;Computer+Science+Student,;Brand+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" alt="gif" width="200">
 </p>
+
 
 - 🎓 Currently a first-year undergrad student in Computer Science Engineering.
 - 🚀 Active Apna College Delta 3.0 enrolled student, learning full-stack web development.
