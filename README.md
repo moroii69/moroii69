@@ -50,11 +50,12 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-
-<br>
-![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Ufraan's Top Languages">
+</p>
+
 
 ## Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
