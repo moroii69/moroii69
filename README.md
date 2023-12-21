@@ -52,3 +52,5 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) or [LinkedIn](https://www.linkedin.com/in/ufraaan/).
 
 For professional inquiries, reach out via email at kurosen930@gmail.com.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ufraan)](https://github.com/anuraghazra/github-readme-stats)
