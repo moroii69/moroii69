@@ -50,6 +50,10 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+
+<br>
+![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </p>
 
 ## Trophies
@@ -61,6 +65,5 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) o
 
 For professional inquiries, reach out via email at kurosen930@gmail.com.
 
-![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
