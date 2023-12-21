@@ -2,10 +2,6 @@
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" alt="gif" size="200px">
-</p>
-
 
 - 🎓 Currently a first-year undergrad student in Computer Science Engineering.
 - 🚀 Active Apna College Delta 3.0 enrolled student, learning full-stack web development.
