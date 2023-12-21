@@ -1,10 +1,12 @@
 # Hey, I'm Ufraan! 👋
 
-I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ufraan&color=green&style=flat-square" alt="Profile Views">
 </p>
+
+I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
+
+
 
 
 - 🎓 Currently a first-year undergrad student in Computer Science Engineering.
