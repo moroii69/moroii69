@@ -2,6 +2,9 @@
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
+<p align="center" ![](https://komarev.com/ghpvc/?username=Ufraan&color=green&style=flat-square)
+</p>
+
 
 - 🎓 Currently a first-year undergrad student in Computer Science Engineering.
 - 🚀 Active Apna College Delta 3.0 enrolled student, learning full-stack web development.
@@ -57,5 +60,4 @@ For professional inquiries, reach out via email at kurosen930@gmail.com.
 
 ![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Ufraan&color=green&style=flat-square)
 
