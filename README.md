@@ -25,8 +25,7 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 - As a kid, I wanted to be a doctor.
 
 ## 🧑‍💻Languages and Tools
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
-</div><h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -47,7 +46,8 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
-
+## Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
 
 ## 📫 Contact
 
