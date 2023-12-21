@@ -1,7 +1,7 @@
 # Hey, I'm Ufraan! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ufraan&color=dark-gray&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Ufraan&color=gray&style=flat-square" alt="Profile Views">
 </p>
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
