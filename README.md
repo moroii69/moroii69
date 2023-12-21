@@ -2,6 +2,8 @@
 
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Aspiring+Full-Stack+Web+Developer,;Computer+Science+Student,;Brand+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
@@ -54,3 +56,5 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) o
 For professional inquiries, reach out via email at kurosen930@gmail.com.
 
 ![Ufraan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square)
