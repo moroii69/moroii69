@@ -3,8 +3,9 @@
 I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
 
 <p align="center">
-  <img src="[https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b95286nvre3mcuy15xdnugb9kb8yd2lqepvowa8gq2o7&ep=v1_gifs_search&rid=200w.gif&ct=g](https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif)" alt="gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" alt="gif">
 </p>
+
 
 
 <p align="center">
