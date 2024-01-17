@@ -21,7 +21,7 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 ## 🌟 Experience
 
 - 💼 Over three years of experience in brand design.
-- 🚀 Proven expertise in SEO optimization.
+- 🚀 Proven expertise in IT.
 - 🔐 Knowledgeable in network security practices.
 
 ## ✨ Fun Facts
