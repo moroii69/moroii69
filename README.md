@@ -4,13 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=Ufraan&color=gray&style=flat-square" alt="Profile Views">
 </p>
 
-I'm an 18-year-old undergraduate student based in India, pursuing Computer Science Engineering. I'm passionate about web development.
+I'm an undergraduate student based in India, pursuing Computer Science Engineering. 
 
+## Skills and Expertise
 
+- Proficient in brand design, documentation, graphic design, and more, bringing a diverse skill set to the table.
+- Hands-on experience in web development, cybersecurity, Python, UX/UI design principles, Arduino, IoT, DSA, and various programming languages.
+- Practical experience with Kali Linux, virtual machines, and Ubuntu.
+- Actively working on JavaScript-based projects and enthusiastic about learning new technologies and expanding knowledge base.
 
-
-- 🎓 Currently a first-year undergrad student in Computer Science Engineering.
-- 🚀 Active Apna College Delta 3.0 enrolled student, learning full-stack web development.
 
 ## 🔭 Current Endeavors
 
@@ -34,26 +36,12 @@ I'm an 18-year-old undergraduate student based in India, pursuing Computer Scien
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin-right: 20px;">
+  <!-- Add other language and tool icons here -->
 </p>
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Ufraan's Top Languages">
 </p>
-
 
 ## Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
@@ -64,5 +52,9 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) o
 
 For professional inquiries, reach out via email at kurosen930@gmail.com.
 
+---
 
 
+## Personal Pursuits
+
+Beyond the lines of code and pixels on screen, I find solace in the rhythm of words, crafting poetry that echoes the depth of philosophical inquiry.
