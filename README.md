@@ -46,10 +46,11 @@ I'm an undergraduate student based in India, pursuing Computer Science Engineeri
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
 
 ## 📫 Contact
-
 For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) or [LinkedIn](https://www.linkedin.com/in/ufraaan/).
-
 For professional inquiries, reach out via email at kurosen930@gmail.com.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
