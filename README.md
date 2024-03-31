@@ -14,7 +14,6 @@ I'm an undergraduate student based in India, pursuing Computer Science Engineeri
 - Exploring secure web application development and measures against Cross-Site Request Forgery (CSRF), alongside ongoing security assessments.
 - Actively studying Security Information and Event Management (SIEM) solutions and Intrusion Detection Systems (IDS) for digital asset monitoring and protection.
 - Getting acquainted with Kali Linux and its tools for security testing, as part of the learning process.
-- Dedicated to continuous learning and improvement in cybersecurity practices, eagerly exploring emerging technologies in the field.
 
 
 ## 🧑‍💻Languages and Tools
