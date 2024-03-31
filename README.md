@@ -10,30 +10,12 @@ I'm an undergraduate student based in India, pursuing Computer Science Engineeri
 
 ## Skills and Expertise
 
-- Proficient in brand design, documentation, graphic design, and more, bringing a diverse skill set to the table.
-- Hands-on experience in web development, cybersecurity, Python, UX/UI design principles, Arduino, IoT, DSA, and various programming languages.
-- Practical experience with Kali Linux, virtual machines, and Ubuntu.
-- Actively working on JavaScript-based projects and enthusiastic about learning new technologies and expanding knowledge base.
+- Skilled in full stack web development, Python programming, and cybersecurity, specializing in penetration testing methodologies.
+- Exploring secure web application development and measures against Cross-Site Request Forgery (CSRF), alongside ongoing security assessments.
+- Actively studying Security Information and Event Management (SIEM) solutions and Intrusion Detection Systems (IDS) for digital asset monitoring and protection.
+- Getting acquainted with Kali Linux and its tools for security testing, as part of the learning process.
+- Dedicated to continuous learning and improvement in cybersecurity practices, eagerly exploring emerging technologies in the field.
 
----
-
-## 🔭 Current Endeavors
-
-- Engaged in exciting web development projects.
-- Exploring UI/UX to enhance my skill set.
-- I'm an early riser, always driven, and constantly learning in the tech world.
-
-## 🌟 Experience
-
-- 💼 Over three years of experience in brand design.
-- 🚀 Proven expertise in IT.
-- 🔐 Knowledgeable in network security practices.
-
-## ✨ Fun Facts
-
-- I have a typing speed of over 130 WPM.
-- C was my first programming language.
-- As a kid, I wanted to be a doctor.
 
 ## 🧑‍💻Languages and Tools
 
@@ -44,9 +26,6 @@ I'm an undergraduate student based in India, pursuing Computer Science Engineeri
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufraan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Ufraan's Top Languages">
 </p>
-
-## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ufraan&theme=dark_lover" alt="Ufraan" /></a> </p>
 
 ---
 
