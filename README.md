@@ -22,7 +22,7 @@ I'm an undergraduate student based in India, pursuing Computer Science Engineeri
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+**Backend Development:** `Node.js` `GraphQL` `Firebase` 
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
