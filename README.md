@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ufraan&color=gray&style=flat-square" alt="profile views">
 </p>
 
-i'm an undergraduate student based in india, pursuing computer science engineering. 
+**cs** undergrad based in india
 
 ## skills and expertise
 
@@ -18,15 +18,16 @@ i'm an undergraduate student based in india, pursuing computer science engineeri
 
 ## 📦 toolbox
 
-**frontend development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css`
- 
-**version control:** `git` `gitlab` `bitbucket`
 
-**backend development:** `node.js` `graphql` `firebase` 
+**frontend development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css` `vue.js` `angular` `svelte` `redux` `webpack`
 
-**testing:** `cypress` `playwright` `vitest` `postman` `insomnia`
+**version control:** `git` `gitlab` `bitbucket` `github`
 
-**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira`
+**backend development:** `node.js` `graphql` `firebase` `express.js` `django` `flask` `ruby on rails` `asp.net`
+
+**testing:** `cypress` `playwright` `vitest` `postman` `insomnia` `jest` `mocha` `chai` `selenium` `junit`
+
+**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `owasp` `nmap` `wireshark` `metasploit` `snort` `pyTorch` `tensorFlow` `keras` `scikit-learn` `pycaret` `ansible` `terraform`
 
 
 ---
