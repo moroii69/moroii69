@@ -1,37 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=As-salamu+alaykum!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&random=false&width=435&lines=as-salamu+alaykum!;welcome+to+my+profile!)](https://git.io/typing-svg)
 
-# Hey, I'm Ufraan! 👋
+# hey, i'm ufraan! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ufraan&color=gray&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ufraan&color=gray&style=flat-square" alt="profile views">
 </p>
 
-I'm an undergraduate student based in India, pursuing Computer Science Engineering. 
+i'm an undergraduate student based in india, pursuing computer science engineering. 
 
-## Skills and Expertise
+## skills and expertise
 
-- Skilled in full stack web development, Python programming, and cybersecurity, specializing in penetration testing methodologies.
-- Exploring secure web application development and measures against Cross-Site Request Forgery (CSRF), alongside ongoing security assessments.
-- Actively studying Security Information and Event Management (SIEM) solutions and Intrusion Detection Systems (IDS) for digital asset monitoring and protection.
-- Getting acquainted with Kali Linux and its tools for security testing, as part of the learning process.
+- skilled in full stack web development, python programming, and cybersecurity, specializing in penetration testing methodologies.
+- exploring secure web application development and measures against cross-site request forgery (csrf), alongside ongoing security assessments.
+- actively studying security information and event management (siem) solutions and intrusion detection systems (ids) for digital asset monitoring and protection.
+- getting acquainted with kali linux and its tools for security testing, as part of the learning process.
 
 
-## 📦 Toolbox
+## 📦 toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `HTML` `CSS`
+**frontend development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**version control:** `git` `gitlab` `bitbucket`
 
-**Backend Development:** `Node.js` `GraphQL` `Firebase` 
+**backend development:** `node.js` `graphql` `firebase` 
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**testing:** `cypress` `playwright` `vitest` `postman` `insomnia`
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira`
 
 
 ---
 
-## 📫 Contact
-For a quick response, DM me on [Instagram](https://www.instagram.com/ufraaan/) or [LinkedIn](https://www.linkedin.com/in/ufraaan/).
-For inquiries, reach out via email at kurosen930@gmail.com.
-
+## 📫 contact
+for a quick response, dm me on [instagram](https://www.instagram.com/ufraaan/) or [linkedin](https://www.linkedin.com/in/ufraaan/).
+for inquiries, reach out via email at kurosen930@gmail.com.
