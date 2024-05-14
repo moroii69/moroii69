@@ -27,7 +27,7 @@
 
 **testing:** `cypress` `playwright` `vitest` `postman` `insomnia` `jest` `mocha` `chai` `selenium` `junit`
 
-**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `owasp` `nmap` `wireshark` `metasploit` `snort` `pyTorch` `tensorFlow` `keras` `scikit-learn` `pycaret` `ansible` `terraform`
+**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `owasp` `nmap` `wireshark` `metasploit` `snort` `pyTorch` `tensorFlow` `keras` `scikit-learn` `pycaret` `ansible` `terraform` `nvim`
 
 
 ---
