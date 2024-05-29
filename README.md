@@ -34,4 +34,4 @@
 
 ## 📫 contact
 for a quick response, dm me on [instagram](https://www.instagram.com/ufraaan/) or [linkedin](https://www.linkedin.com/in/ufraaan/).
-for inquiries, reach out via email at kurosen930@gmail.com.
+for inquiries, reach out via email at potassium@tutamail.com
