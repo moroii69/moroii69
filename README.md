@@ -24,7 +24,7 @@
 
 **testing:** `cypress` `playwright` `vitest` `postman` `insomnia` `jest` `mocha` `chai` `selenium` `junit`
 
-**cybersecurity:** `owasp` `nmap` `wireshark` `metasploit` `snort` `maltego` `nessus` `openvas` `burp suite` `acunetix`
+**cybersecurity methods:** `malware analysis` `incident response` `pen testing` `CEH` `CISP` `CompTIA Security+` 
 
 **languages:** `python` `cpp` `javascript` `c core` `bash` `go` `php` `typescript`
 
