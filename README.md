@@ -16,18 +16,20 @@
 - getting acquainted with kali linux and its tools for security testing, as part of the learning process.
 
 
-## 📦 toolbox
+**📦 toolbox**
 
-
-**frontend development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css` `vue.js` `angular` `svelte` `redux` `webpack`
+**development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css` `vue.js` `angular` `svelte` `redux` `webpack` `node.js` `graphql` `firebase` `express.js` `django` `flask` `ruby on rails` `asp.net`
 
 **version control:** `git` `gitlab` `bitbucket` `github`
 
-**backend development:** `node.js` `graphql` `firebase` `express.js` `django` `flask` `ruby on rails` `asp.net`
-
 **testing:** `cypress` `playwright` `vitest` `postman` `insomnia` `jest` `mocha` `chai` `selenium` `junit`
 
-**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `owasp` `nmap` `wireshark` `metasploit` `snort` `pyTorch` `tensorFlow` `keras` `scikit-learn` `pycaret` `ansible` `terraform` `nvim`
+**cybersecurity:** `owasp` `nmap` `wireshark` `metasploit` `snort` `maltego` `nessus` `openvas` `burp suite` `acunetix`
+
+**languages:** `python` `cpp` `javascript` `c core` `bash` `go` `php` `typescript`
+
+**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `pytorch` `tensorflow` `keras` `scikit-learn` `pycaret` `ansible` `terraform` `nvim`
+
 
 
 ---
