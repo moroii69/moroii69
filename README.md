@@ -8,32 +8,33 @@
 
 **cs** undergrad based in india
 
-## skills and expertise
+<h2>Skills and Expertise</h2>
 
 - skilled in full stack web development, python programming, and cybersecurity, specializing in penetration testing methodologies.
+
 - exploring secure web application development and measures against cross-site request forgery (csrf), alongside ongoing security assessments.
+
 - actively studying security information and event management (siem) solutions and intrusion detection systems (ids) for digital asset monitoring and protection.
+
 - getting acquainted with kali linux and its tools for security testing, as part of the learning process.
 
+<h2>Languages</h2>
 
-**📦 toolbox**
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
 
-**development:** `react` `next.js` `typescript` `tailwind` `material-ui` `framer-motion` `html` `css` `vue.js` `angular` `svelte` `redux` `webpack` `node.js` `graphql` `firebase` `express.js` `django` `flask` `ruby on rails` `asp.net`
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
 
-**version control:** `git` `gitlab` `bitbucket` `github`
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
 
-**testing:** `cypress` `playwright` `vitest` `postman` `insomnia` `jest` `mocha` `chai` `selenium` `junit`
-
-**cybersecurity methods:** `malware analysis` `incident response` `pen testing` `CEH` `CISP` `CompTIA Security+` 
-
-**languages:** `python` `cpp` `javascript` `c core` `bash` `go` `php` `typescript`
-
-**others:** `storybook` `zustand` `a11y` `scrum` `confluence` `jira` `docker` `kubernetes` `aws` `zzure` `ci/cd` `sonarqube` `pytorch` `tensorflow` `keras` `scikit-learn` `pycaret` `ansible` `terraform` `nvim`
-
-
-
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
 ---
 
 ## 📫 contact
 for a quick response, dm me on [instagram](https://www.instagram.com/ufraaan/) or [linkedin](https://www.linkedin.com/in/ufraaan/).
-for inquiries, reach out via email at potassium@tutamail.com
+for inquiries, reach out via email at kurosen930@gmail.com
