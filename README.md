@@ -8,33 +8,33 @@
 
 **cs** undergrad based in india
 
-<h2>Skills and Expertise</h2>
+## Skills and Expertise
 
-- skilled in full stack web development, python programming, and cybersecurity, specializing in penetration testing methodologies.
+- Skilled in full stack web development, Python programming, and cybersecurity, specializing in penetration testing methodologies.
+- Exploring secure web application development and measures against cross-site request forgery (CSRF), alongside ongoing security assessments.
+- Actively studying security information and event management (SIEM) solutions and intrusion detection systems (IDS) for digital asset monitoring and protection.
+- Getting acquainted with Kali Linux and its tools for security testing, as part of the learning process.
+- Currently exploring vulnerabilities through bug bounty programs to deepen my practical knowledge and skills. I am eager to leverage my expertise to strengthen an organization’s cybersecurity resilience.
+- Learning in-depth low-level programming, data structures and algorithms, and initiating my learning journey in machine learning.
 
-- exploring secure web application development and measures against cross-site request forgery (csrf), alongside ongoing security assessments.
-
-- actively studying security information and event management (siem) solutions and intrusion detection systems (ids) for digital asset monitoring and protection.
-
-- getting acquainted with kali linux and its tools for security testing, as part of the learning process.
-
-<h2>Languages</h2>
+## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
 
-<h2>Frameworks</h2>
+## Frameworks
   
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
 
-<h2>Databases</h2>
+## Databases
   
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
 
-<h2>Tools</h2>
+## Tools
  
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+
 ---
 
-## 📫 contact
-for a quick response, dm me on [instagram](https://www.instagram.com/ufraaan/) or [linkedin](https://www.linkedin.com/in/ufraaan/).
-for inquiries, reach out via email at kurosen930@gmail.com
+## 📫 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ufraaan/). For inquiries, reach out via email at kurosen930@gmail.com.
