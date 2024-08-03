@@ -8,15 +8,6 @@
 
 **cs** undergrad based in india
 
-## Skills and Expertise
-
-- Skilled in full stack web development, Python programming, and cybersecurity, specializing in penetration testing methodologies.
-- Exploring secure web application development and measures against cross-site request forgery (CSRF), alongside ongoing security assessments.
-- Actively studying security information and event management (SIEM) solutions and intrusion detection systems (IDS) for digital asset monitoring and protection.
-- Getting acquainted with Kali Linux and its tools for security testing, as part of the learning process.
-- Currently exploring vulnerabilities through bug bounty programs to deepen my practical knowledge and skills. I am eager to leverage my expertise to strengthen an organization’s cybersecurity resilience.
-- Learning in-depth low-level programming, data structures and algorithms, and initiating my learning journey in machine learning.
-
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
