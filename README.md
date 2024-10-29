@@ -29,3 +29,5 @@
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ufraaan/). For inquiries, reach out via email at kurosen930@gmail.com.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moroii69&layout=compact)
