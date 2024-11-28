@@ -10,7 +10,7 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,bash,python)](https://skillicons.dev)
 
 ## Frameworks
   
@@ -18,7 +18,7 @@
 
 ## Databases
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,firebase)](https://skillicons.dev)
 
 ## Tools
  
