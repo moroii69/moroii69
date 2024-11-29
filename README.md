@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
 
 ---
-
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ufraaan/). For inquiries, reach out via email at kurosen930@gmail.com.
