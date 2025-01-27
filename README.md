@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ufraan&color=gray&style=flat-square" alt="profile views">
 </p>
 
-**cs** undergrad based in india
+Computer Science Undergrad
 
 ## Languages
 
