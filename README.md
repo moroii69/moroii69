@@ -3,7 +3,7 @@
 # hey, i'm ufraan! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ufraan&color=gray&style=flat-square" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=moroii69&color=gray&style=flat-square" alt="profile views">
 </p>
 
 Computer Science Undergrad
