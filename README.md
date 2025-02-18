@@ -10,7 +10,7 @@ Computer Science Undergrad
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,bash,python,java)](https://skillicons.dev)
 
 ## Frameworks
   
