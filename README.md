@@ -10,19 +10,19 @@ Computer Science Undergrad
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,bash,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,php)](https://skillicons.dev)
 
 ## Frameworks
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss,graphql,redux,)](https://skillicons.dev)
 
 ## Databases
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,firebase,supabase,mysql,prisma,aws,gcp,sqlite)](https://skillicons.dev)
 
 ## Tools
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux,jenkins,bash,githubactions,vercel,postman,blender,unreal,figma,ubuntu,kafka,cloudflare)](https://skillicons.dev)
 
 ---
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
