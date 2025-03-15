@@ -4,7 +4,7 @@ javascript, python, c++
 
 ---
 
-📧 [kurosen930@gmail.com](mailto:your.email@example.com)
+📧 [hey@ufraan.com](mailto:hey@ufraan.com)
 
 💼 [linkedin.com/in/ufraaan](https://www.linkedin.com/in/ufraaan)
 
