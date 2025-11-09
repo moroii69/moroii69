@@ -1,6 +1,6 @@
 hey! i'm ufraan, a pre-final year computer science student.
 
-javascript, python, c++
+typescript, python, c++
 
 ---
 
