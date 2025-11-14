@@ -4,7 +4,7 @@ typescript, python, c++
 
 ---
 
-📧 [hey@ufraan.com](mailto:hey@ufraan.com)  
+📧 [kurosen930@gmail.com](mailto:kurosen930@gmail.com)  
 💼 [linkedin.com/in/ufraaan](https://www.linkedin.com/in/ufraaan)  
 🐤 [twitter.com/ufraaaan](https://twitter.com/ufraaaan)
 <br>
