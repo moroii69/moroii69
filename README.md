@@ -1,6 +1,9 @@
 hey! i'm ufraan, a pre-final year computer science student.
 
-typescript, python, c++
+
+typescript, go, c++ 
+
+focused on backend engineering, exploring distributed systems.
 
 ---
 
