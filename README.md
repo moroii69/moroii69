@@ -7,7 +7,7 @@ focused on backend engineering, exploring distributed systems.
 
 ---
 
-📧 [kurosen930@gmail.com](mailto:kurosen930@gmail.com)  
+📧 [ufraan1@gmail.com](mailto:ufraan1@gmail.com)  
 💼 [linkedin.com/in/ufraaan](https://www.linkedin.com/in/ufraaan)  
 🐤 [twitter.com/ufraaaan](https://twitter.com/ufraaaan)
 <br>
