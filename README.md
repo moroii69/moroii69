@@ -1,4 +1,4 @@
-hey! i'm ufraan, a pre-final year computer science student.
+hey! i'm ufraan, a final year computer science student.
 
 
 typescript, go, c++ 
